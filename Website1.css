@@ -1,0 +1,45 @@
+body {
+	background-color: #00034B;
+}
+
+/* div's */
+#TopBorder {
+	position: absolute;
+	width: 1335px;
+	height: 90px;
+	background-color: maroon;
+}
+#LeftOuterBorder {
+	position: absolute;
+	height: 90px;
+	width: 480px;
+	background-color: dimgrey;
+}
+#LeftBorder {
+	position: absolute;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: black;
+}
+#background {
+	background-image: url(file:///E:/Games/coding/HTML/website1/amerconftread_flag.jpg);
+	width:1335px;
+	height:800px;
+}
+
+/* functions */
+a {
+	position: relative;
+	margin-left: 10px;
+}
+
+/* header's */
+h1 {
+	font-size: 40px;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 17px;
+	color: lime;
+}

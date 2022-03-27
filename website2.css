@@ -1,0 +1,68 @@
+body {
+	background-color: #00034B;
+}
+
+/* div's */
+#TopBorder {
+	position: absolute;
+	width: 1350px;
+	height: 90px;
+	background-color: maroon;
+}
+#LeftOuterBorder {
+	position: absolute;
+	height: 90px;
+	width: 480px;
+	background-color: dimgrey;
+}
+#LeftBorder {
+	position: absolute;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: black;
+}
+#platoons {
+	position: absolute;
+	margin-top: 100px;
+	background-color: darkgreen;
+}
+#clickableborder {
+	position: absolute;
+	height: 185px;
+	width: 75px;
+	background-color: maroon;
+}
+#kartinatorr {
+	position: absolute;
+	height: 75px;
+	width: 142px;
+	background-color: maroon;
+	margin-left: 20px;
+	padding-left: 20px;
+	text-align: left;
+	padding-bottom: 10px;
+	padding-right: 20px;
+}
+
+/* functions */
+a {
+	position: relative;
+}
+
+/* header's */
+h1 {
+	font-size: 40px;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 17px;
+	color: lime;
+}
+h2 {
+	color: lime;
+	background-color: black;
+}
+p {
+	color: lime;
+}
